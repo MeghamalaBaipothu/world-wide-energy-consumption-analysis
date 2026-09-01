@@ -201,5 +201,3 @@ Interested in **Data Analytics, Data Science, SQL, Python, Power BI, Machine Lea
 ---
 
 ⭐ If you find this project useful, feel free to explore the SQL queries and datasets.
-
-````
